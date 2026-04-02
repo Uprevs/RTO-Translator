@@ -1,2 +1,2 @@
-# Real-Time-Onscreen-Translatior
-to-do
+# Real-Time-Onscreen-Translator
+to-do: make the damned README
